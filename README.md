@@ -1,6 +1,7 @@
 # Econometrics
 > **Main Goal:** Studying **Econometrics** with Python!
 
+---
 
 ### 1. Panel Data Methods
 - **Topics**
