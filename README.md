@@ -1,5 +1,5 @@
 # Econometrics
-- **Main Goal:** Studying **Econometrics** with Python!
+> **Main Goal:** Studying **Econometrics** with Python!
 
 ---
 
