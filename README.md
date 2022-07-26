@@ -1,10 +1,12 @@
 # Econometrics
-- Main Goal: Studying **Econometrics** with Python
+- **Main Goal:** Studying **Econometrics** with Python!
+
+---
 
 ### 1. Panel Data Methods
-- References
+- **References**
   + Introductory Econometrics: A Modern Approach by Wooldridge, Jeffrey M.
-- Topics
+- **Topics**
   + Pooled OLS
   + First Differencing
   + Fixed Effects
