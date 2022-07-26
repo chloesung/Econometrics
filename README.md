@@ -1,6 +1,9 @@
 # Econometrics
 Studying Econometrics with Python
-### Panel Data Methods
+
+### 1. Panel Data Methods
 - Pooled OLS
+- First Differencing
 - Fixed Effects
 - Random Effects
+- 
