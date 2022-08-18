@@ -12,6 +12,7 @@
 
 ### 2. Instrument Variables Approach
 - **Topics**
+  + Omitted Variables
   + 2SLS
   
 #### **References**
