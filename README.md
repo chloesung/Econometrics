@@ -10,7 +10,7 @@
   + Fixed Effects
   + Random Effects
 
-### 2. Instrument Variables Estimation
+### 2. Instrument Variables Approach
 - **Topics**
   + 2SLS
   
