@@ -12,8 +12,8 @@
 
 ### 2. Instrument Variables Approach
 - **Topics**
-  + Omitted Variables
   + 2SLS
+  + Omitted Variables
   
 #### **References**
   + Introductory Econometrics: A Modern Approach by Wooldridge, Jeffrey M. (Ch 13, 14, 15)
