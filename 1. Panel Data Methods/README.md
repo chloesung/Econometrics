@@ -5,10 +5,10 @@
 - 
 
 ## Wooldridge
-- Ch 13: GPA panel data set 
+- **Ch 13:** GPA panel data set 
   + Pooled OLS
   + First Differencing
-- Ch 14: Wage panel data set
+- **Ch 14:** Wage panel data set
   + Pooled OLS
   + Random Effects
   + Fixed Effects
