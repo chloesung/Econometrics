@@ -5,7 +5,7 @@
 - [Linearmodels IV Documentation](https://bashtage.github.io/linearmodels/iv/index.html)
 
 ## Wooldridge
-- **Ch 15(1):** Wage data set
+- **[Ch 15 (1)](https://github.com/chloesung/Econometrics/blob/main/2.%20Instrument%20Variables%20Approach/Wooldridge/Wooldridge_Ch15(1).ipynb):** Wage data set
   + fatheduc is an instrument for educ
   + 2SLS vs OLS
  
