@@ -5,7 +5,7 @@
 - 
 
 ## Wooldridge
-- **Ch 13:** GPA panel data set 
+- **Ch 13:** GPA panel data set
   + Pooled OLS
   + First Differencing  
  
