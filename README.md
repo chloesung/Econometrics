@@ -17,3 +17,4 @@
   
 #### **References**
   + Introductory Econometrics: A Modern Approach by Wooldridge, Jeffrey M. (Ch 13, 14, 15)
+  + Linearmodels ([documentation](https://bashtage.github.io/linearmodels/))
