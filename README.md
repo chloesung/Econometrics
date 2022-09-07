@@ -13,7 +13,8 @@
 ### 2. Instrument Variables Approach
 - **Topics**
   + 2SLS
-  + Omitted Variables
+  + Omitted Variables Bias
+  + Applying IV to Pooled Cross Section and Panel Data
   
 #### **References**
   + Introductory Econometrics: A Modern Approach by Wooldridge, Jeffrey M. (Ch 13, 14, 15)
