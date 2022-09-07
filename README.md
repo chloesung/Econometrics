@@ -15,7 +15,12 @@
   + 2SLS
   + Omitted Variables Bias
   + Applying IV to Pooled Cross Section and Panel Data
-  
+
+### 3. Difference In Differnces
+
+### 4. Regression Discontinuity Design
+
+
 #### **References**
   + Introductory Econometrics: A Modern Approach by Wooldridge, Jeffrey M. (Ch 13, 14, 15)
   + Linearmodels ([documentation](https://bashtage.github.io/linearmodels/))
