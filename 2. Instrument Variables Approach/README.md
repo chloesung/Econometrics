@@ -13,5 +13,7 @@
   + KWW is an instrument for IQ
   + Omitted variables problem & Proxy variable
   
-- **[Ch 15(3)](https://github.com/chloesung/Econometrics/blob/main/2.%20Instrument%20Variables%20Approach/Wooldridge/Wooldridge_Ch15(3).ipynb) :**
+- **[Ch 15(3)](https://github.com/chloesung/Econometrics/blob/main/2.%20Instrument%20Variables%20Approach/Wooldridge/Wooldridge_Ch15(3).ipynb) :** Fertility data set
+  + dd
+  + 
   
