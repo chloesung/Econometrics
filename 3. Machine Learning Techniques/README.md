@@ -1,4 +1,4 @@
-# Instrument Variables Estimation
+# Machine Learning Techniques
 
 ## Topics
 - **[Ch 15(1)](https://github.com/chloesung/Econometrics/blob/main/2.%20Instrument%20Variables%20Approach/Wooldridge/Wooldridge_Ch15(1).ipynb) :** Wage data set
