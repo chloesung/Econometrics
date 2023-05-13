@@ -17,6 +17,10 @@
   + Applying IV to Pooled Cross Section and Panel Data
 
 ### 3. Difference In Differnces
+- **Topics**
+  + K Nearest Neighbor Algorithm
+  + Spline Regression
+  + Discriminant Analysis and Multinomial Logit
 
 ### 4. Regression Discontinuity Design
 
